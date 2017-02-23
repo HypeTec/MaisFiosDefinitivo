@@ -160,6 +160,11 @@ fieldset[disabled] .btn-xl.active {
   background-color: #222222;
   border-color: transparent;
 }
+
+.navbar-brand img{
+  width: 100px;
+  height: 100px;
+}
 .navbar-custom .navbar-brand {
   color: #a52066;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
