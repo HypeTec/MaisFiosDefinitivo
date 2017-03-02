@@ -1,0 +1,47 @@
+Relatório Técnico
+  Um relatório para o projeto contemplando a evolução cronológica
+  do desenvolvimento e todos os resultados obtidos.
+
+Relatório da Prática Profissional (Individual) 
+  Compartilhar as partes de introdução, fundamentação teórica e modelage
+  Cada um descreve os resultados baseado nas tarefas realizadas.
+
+1. Introdução
+  Contexto
+  Objetivo
+ 
+2. Fundamentação Teórica 
+  Tecnologias
+
+3. Modelagem do Sistema
+
+  Requisitos
+    Funcionais
+    Não-Funcionais
+  Casos de Uso
+    Módulos
+      Web - Site
+      Web - Serviço
+      Cliente
+      Garçom
+  Arquitetura
+  Diagrama de Classes do Banco
+
+4. Resultados
+
+  Descrição geral do funcionamento (principais páginas) - Comum nos
+    relatórios
+
+  Cada um detalha mais a parte implementada
+
+  Web - Site    (Gilson)
+  Web - Serviço (Marcos)
+  Cliente       (Isaac, Luis)
+  Garçom        (Isaac, Luis)
+
+5. Conclusão
+
+  
+
+
+  
