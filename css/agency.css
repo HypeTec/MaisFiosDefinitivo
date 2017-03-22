@@ -7,6 +7,95 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+/*INICIO*/
+.preheader {
+    width: 100%;
+    background: #775aa0;
+    padding-top: 10px;
+    padding-bottom: 8px
+}
+.preheader .boxpreheader {
+    margin: 0 auto;
+    width: 1024px;
+    overflow: hidden
+}
+.preheader .boxpreheader ul.secondary-menu li {
+    float: left;
+    margin-right: 33px;
+    margin-top: 2px
+}
+.preheader .boxpreheader ul.secondary-menu li a {
+    color: #fff;
+    font-family: 'Trebuchet MS';
+    font-size: 12px;
+    position: relative;
+    display: block;
+    padding-left: 23px;
+    padding-top: 4px
+}
+.preheader .icon-facebook:before {
+    content: "\e900";
+    font-size: 22px
+}
+.preheader .icon-instagram:before {
+    content: "\e901";
+    font-size: 22px
+}
+.preheader .icon-youtube:before {
+    content: "\e902";
+    font-size: 22px
+}
+.preheader .icon-estrela a:before,
+.preheader .icon-faleconosco a:before,
+.preheader .icon-tesoura a:before,
+.preheader .icon-franqueado a:before {
+    font-family: 'spafontes'!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    color: #fff;
+    font-size: 18px;
+    position: absolute;
+    left: 0;
+    top: 1px
+}
+.preheader .icon-estrela a:before {
+    content: "\e903"
+}
+.preheader .icon-faleconosco a:before {
+    content: "\e904";
+    font-size: 15px;
+    line-height: 18px
+}
+.preheader .icon-tesoura a:before {
+    content: "\e906";
+    font-size: 20px
+}
+.preheader .icon-franqueado a:before {
+    content: "\e905";
+    font-size: 14px;
+    line-height: 17px
+}
+
+.preheader .boxpreheader .menu-top-meta-container {
+    margin-left: 144px
+}
+.preheader .boxpreheader ul.secondary-menu li#menu-item-9229 {
+    margin-right: 25px
+}
+.preheader .boxpreheader ul.secondary-menu li#menu-item-103 {
+    margin-right: 27px
+}
+
+.preheader{
+  display: none;
+}
+
+/*FIM*/
+
 .text-muted {
   color: #777777;
 }
@@ -162,9 +251,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-brand img{
-  width: 100px;
-  height: 100px;
+  width: 330px;
+  height: 130px;
 }
+
+.ol .img{
+  height:60%;
+}
+
 .navbar-custom .navbar-brand {
   color: #a52066;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;

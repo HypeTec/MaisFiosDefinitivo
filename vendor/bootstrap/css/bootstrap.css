@@ -6235,8 +6235,14 @@ button.close {
   border-left-color: #fff;
 }
 .carousel {
-  position: relative;
+  position:relative;
 }
+
+.carousel {
+    height: 600px;
+    margin-bottom: 60px;
+}
+
 .carousel-inner {
   position: relative;
   width: 100%;
