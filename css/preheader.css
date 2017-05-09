@@ -1,0 +1,31 @@
+.preheader{
+  background-color: rgb(165,32,102);
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.arredondado{
+  background-color: rgba(165,32,102,0.5);
+  border-radius: 25px;
+}
+
+.meio{
+  text-align: center;
+}
+
+.social{
+  background-color: rgba(255,255,255,0.65);
+
+  height: 80%;
+}
+
+h1.teste {
+  background: red;
+  transition: all .2s ease-in-out;
+}
+
+h1.teste:hover {
+  background: blue;
+}
